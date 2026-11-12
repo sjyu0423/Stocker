@@ -1,0 +1,25 @@
+[
+  {
+    "external_id": "fixture-news-aapl-q4-2025",
+    "record_type": "news_article",
+    "canonical_url": "https://example.invalid/fixtures/aapl-q4-2025",
+    "published_at": "2026-01-30T21:05:00Z",
+    "payload": {
+      "headline": "Example Corp reports quarterly results",
+      "symbols": ["AAPL"],
+      "body": "Offline fixture content for deterministic development only."
+    }
+  },
+  {
+    "external_id": "fixture-filing-msft-10k-2025",
+    "record_type": "sec_filing",
+    "canonical_url": "https://example.invalid/fixtures/msft-10k-2025",
+    "published_at": "2025-07-30T16:30:00Z",
+    "payload": {
+      "form": "10-K",
+      "symbols": ["MSFT"],
+      "accession_number": "0000000000-25-000001"
+    }
+  }
+]
+
